@@ -3,12 +3,12 @@
 Codam [42 Network] project: the aim of this project is to code a function that returns a line ending with a newline, read from a file descriptor. The implemented bonus requires you to manage reading from multiple file descriptors without losing the reading thread on each of the descriptors.
 <br/><br/>
 
-### Skills
+## Skills
 - Unix
 - Algorithms & AI
 <br/><br/>
 
-### Objectives
+## Objectives
 - Unix logic
 
 <br/><br/>
