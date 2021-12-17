@@ -8,7 +8,7 @@ Codam [42 Network] project: the aim of this project is to code a function that r
 ```C
 #include "get_next_line.h"
 #include <stdio.h>
-#include <fnctl.h>
+#include <fcntl.h>
 #include <unistd.h>
 
 int main()
